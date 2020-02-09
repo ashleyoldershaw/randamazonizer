@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string-array name="categories">
+        <item>Choose a category!</item>
+        <item>Clothes</item>
+        <item>Films</item>
+        <item>Books</item>
+        <item>Toys</item>
+        <item>Electronics</item>
+        <item>Surprise me!</item>
+    </string-array>
+</resources>
